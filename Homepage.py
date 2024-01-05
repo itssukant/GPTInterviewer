@@ -16,11 +16,7 @@ if lan == "English":
         st.markdown('AI Interviewer - V0.1.2')
         st.markdown(""" 
         #### Let's contact:
-        [Haoxiang Jia](https://www.linkedin.com/in/haoxiang-jia/)
-        
-        [Zicheng Wang](https://www.linkedin.com/in/todd-wang-5001aa264/)
-        #### Please fill the form, we'd love to have your feedback:
-        [Feedback Form](https://docs.google.com/forms/d/13f4q03bk4lD7sKR7qZ8UM1lQDo6NhRaAKv7uIeXHEaQ/edit)
+    
     
         #### Powered by
     
